@@ -7,7 +7,7 @@ Hi there 🖖 Most people know me as Dasha 🙃
 I'm a technical communicator with 10+ years of experience across banking systems, telecommunications, IoT security hardware, and IT infrastructure. I’ve always enjoyed bridging the gap between complex technology and the people and systems that rely on it.
 I got into technical writing without really planning for it. After years of providing hands-on technical support, I've learned what users actually need to know, not what engineers think they should know. That difference is everything in documentation.
 
->*Accidentally a writer. I swapped a normal life and a steady IT career in Ukraine for a one-way ticket to escape the war. Now rebuilding my life in Scotland, starting from scratch with
+>*Accidentally a writer. I swapped a normal life and a steady IT career in Ukraine for a one-way ticket to escape the war. Now rebuilding my life in the UK, starting from scratch with
 >just a single suitcase.*
 
 ## ✍️ What I Do
@@ -35,14 +35,14 @@ I documented devices that shipped to 130+ countries.
 When I'm not writing documentation, I'm writing about writing — on Medium, 
 in communities, and occasionally in places I didn't expect to end up.
  
-*Sometimes the best career moves are the ones you never planned.*
+>*Sometimes the best career moves are the ones you never planned.*
  
 ---
 
 
 ## 🔹 Currently
  
-📍 Based in Glasgow, Scotland
+📍 Based in the UK 
 📝 Writing at [Medium](https://medium.com/@pavlovna)
 🌱 Exploring content design, UX writing, and open source contributions
  
