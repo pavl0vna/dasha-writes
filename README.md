@@ -13,7 +13,7 @@ I got into technical writing without really planning for it. After years of prov
 ## ✍️ What I Do
 ---
  
-## 🔹 Published Work
+## 🟦 Published Work
 Real documentation, on real products, used by real people.
  
 | Project | Description | Link |
@@ -22,7 +22,7 @@ Real documentation, on real products, used by real people.
 ## 🔹 Case Studies
 ---
  
-## 🔹 About Me
+## 🌀 About Me
  
 I believe the most innovative technology is only as strong as the documentation 
 supporting it. My unusual path — from banking IT support through telecoms QA 
