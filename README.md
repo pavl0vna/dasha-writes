@@ -42,7 +42,7 @@ in communities, and occasionally in places I didn't expect to end up.
 
 ## 🔹 Currently
  
-📍 Based in the UK 
+📍 Based in the UK 🇬🇧
 📝 Writing at [Medium](https://medium.com/@pavlovna)
 🌱 Exploring content design, UX writing, and open source contributions
  
