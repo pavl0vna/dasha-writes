@@ -4,7 +4,54 @@ Content &amp; Documentation Portfolio — Daria Nikolaieva
 
 Hi there 🖖 Most people know me as Dasha 🙃
 ---
-I'm a tech comms specialist with over 10 years experience in banking systems, telecoms, IoT security hardware and IT infrastructure. I write stuff to help people get to grips with complicated tech and use it safely.
+I'm a technical communicator with 10+ years of experience across banking systems, telecommunications, IoT security hardware, and IT infrastructure. I’ve always enjoyed bridging the gap between complex technology and the people and systems that rely on it.
 I got into technical writing without really planning for it. After years of providing hands-on technical support, I've learned what users actually need to know, not what engineers think they should know. That difference is everything in documentation.
 
-Accidentally a writer. I swapped a normal life and a steady IT career in Ukraine for a one-way ticket to escape the war. Now rebuilding my life in Scotland, starting from scratch with just a single suitcase.
+>*Accidentally a writer. I swapped a normal life and a steady IT career in Ukraine for a one-way ticket to escape the war. Now rebuilding my life in Scotland, starting from scratch with
+>just a single suitcase.*
+
+## ✍️ What I Do
+---
+ 
+## 🔹 Published Work
+Real documentation, on real products, used by real people.
+ 
+| Project | Description | Link |
+|---|---|---|
+
+## 🔹 Case Studies
+---
+ 
+## 🔹 About Me
+ 
+I believe the most innovative technology is only as strong as the documentation 
+supporting it. My unusual path — from banking IT support through telecoms QA 
+through IoT security hardware — gave me something formal training can't: I know 
+what breaks, what confuses people, and what they actually need to know.
+ 
+I wrote instructions that operators used during real air raids.
+I documented devices that shipped to 130+ countries.
+
+When I'm not writing documentation, I'm writing about writing — on Medium, 
+in communities, and occasionally in places I didn't expect to end up.
+ 
+*Sometimes the best career moves are the ones you never planned.*
+ 
+---
+
+
+## 🔹 Currently
+ 
+📍 Based in Glasgow, Scotland
+📝 Writing at [Medium](https://medium.com/@pavlovna)
+🌱 Exploring content design, UX writing, and open source contributions
+ 
+---
+ 
+---
+ 
+## 🔹 Connect
+ 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nikolaievadaria)
+- ✍️ [Medium](https://medium.com/@pavlovna)
+- 📧 
