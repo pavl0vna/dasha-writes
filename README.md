@@ -21,10 +21,14 @@ I got into technical writing without really planning for it. After years of prov
 ![Localization](https://shields.io)
 ![Compliance](https://shields.io)
 
-### Tools & Ecosystem
-<img src="https://shields.io" alt="Jira" />
-<img src="https://shields.io" alt="Confluence" />
-<img src="https://shields.io" alt="Figma" />
+| Tool | Focus Area |
+| :--- | :--- |
+| <kbd> **Jira** </kbd> | Project tracking, sprint coordination, and cross-functional ticket management |
+| <kbd> **Confluence** </kbd> | Information architecture, internal SOPs, and cross-team wiki documentation |
+| <kbd> **Figma** </kbd> | UX writing, layout content design, and engineering design handoffs |
+| <kbd> **Git & Bitbucket** </kbd> | Version control, branch structure management, and docs-as-code deployments |
+| <kbd> **Active Directory** </kbd> | Enterprise infrastructure, access controls, and legacy IT systems management |
+
 
 ### Languages
 *   **English:** Professional proficiency
