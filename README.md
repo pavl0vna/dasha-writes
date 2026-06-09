@@ -15,11 +15,22 @@ I got into technical writing without really planning for it. After years of prov
 ## 🛠️ Skills & Tech Stack
 
 ### Documentation & Strategy
-![Technical Writing](https://shields.io)
-![Content Design](https://shields.io)
-![Information Architecture](https://shields.io)
-![Localization](https://shields.io)
-![Compliance](https://shields.io)
+
+## 🎯 Specialisms & Capabilities
+
+### Documentation & Strategy
+
+| Domain | Focus Area |
+| :--- | :--- |
+| <kbd> **Technical Writing** </kbd> | Hardware manuals, API concepts, infrastructure logs, and device installation guides |
+| <kbd> **Content Design** </kbd> | UX writing, product copy, microcopy, and digital user journey refinement |
+| <kbd> **Information Architecture** </kbd> | Building structural documentation blueprints from scratch with no existing template |
+| <kbd> **Localization & i18n** </kbd> | Managing 17+ languages, version tracking, and metric-to-imperial unit conversions |
+| <kbd> **Compliance Docs** </kbd> | Authoring to strict international regulatory frameworks (CE, FCC, and WhiteLabel) |
+| <kbd> **Crisis & Emergency** </kbd> | Creating clear civil emergency alerts and SOP instructions under intense pressure |
+
+
+## 🛠️ Tools & Ecosystem
 
 | Tool | Focus Area |
 | :--- | :--- |
