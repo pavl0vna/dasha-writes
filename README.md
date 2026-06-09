@@ -10,7 +10,28 @@ I got into technical writing without really planning for it. After years of prov
 >*Accidentally a writer. I swapped a normal life and a steady IT career in Ukraine for a one-way ticket to escape the war. Now rebuilding my life in the UK, starting from scratch with
 >just a single suitcase.*
 
-## ✍️ What I Do
+---
+
+## 🛠️ Skills & Tech Stack
+
+### Documentation & Strategy
+![Technical Writing](https://shields.io)
+![Content Design](https://shields.io)
+![Information Architecture](https://shields.io)
+![Localization](https://shields.io)
+![Compliance](https://shields.io)
+
+### Tools & Ecosystem
+![Jira](https://shields.io)
+![Figma](https://shields.io)
+![Git](https://shields.io)
+![Enterprise](https://shields.io)
+
+### Languages
+*   **English:** Professional proficiency
+*   **Ukrainian:** Native
+*   **Russian:** Native
+
 ---
  
 ## 🟦 Published Work
