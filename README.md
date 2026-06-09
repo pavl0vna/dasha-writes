@@ -22,9 +22,9 @@ I got into technical writing without really planning for it. After years of prov
 ![Compliance](https://shields.io)
 
 ### Tools & Ecosystem
-[![Jira](https://shields.io)](https://atlassian.com)
-[![Confluence](https://shields.io)](https://atlassian.com)
-[![Figma](https://shields.io)](https://www.figma.com/)
+<img src="https://shields.io" alt="Jira" />
+<img src="https://shields.io" alt="Confluence" />
+<img src="https://shields.io" alt="Figma" />
 
 ### Languages
 *   **English:** Professional proficiency
