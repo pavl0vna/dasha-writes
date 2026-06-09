@@ -15,11 +15,6 @@ I got into technical writing without really planning for it. After years of prov
 ## 🛠️ Skills & Tech Stack
 
 ### Documentation & Strategy
-
-## 🎯 Specialisms & Capabilities
-
-### Documentation & Strategy
-
 | Domain | Focus Area |
 | :--- | :--- |
 | <kbd> **Technical Writing** </kbd> | Hardware manuals, API concepts, infrastructure logs, and device installation guides |
@@ -29,9 +24,7 @@ I got into technical writing without really planning for it. After years of prov
 | <kbd> **Compliance Docs** </kbd> | Authoring to strict international regulatory frameworks (CE, FCC, and WhiteLabel) |
 | <kbd> **Crisis & Emergency** </kbd> | Creating clear civil emergency alerts and SOP instructions under intense pressure |
 
-
-## 🛠️ Tools & Ecosystem
-
+### Tools & Ecosystem
 | Tool | Focus Area |
 | :--- | :--- |
 | <kbd> **Jira** </kbd> | Project tracking, sprint coordination, and cross-functional ticket management |
@@ -39,7 +32,6 @@ I got into technical writing without really planning for it. After years of prov
 | <kbd> **Figma** </kbd> | UX writing, layout content design, and engineering design handoffs |
 | <kbd> **Git & Bitbucket** </kbd> | Version control, branch structure management, and docs-as-code deployments |
 | <kbd> **Active Directory** </kbd> | Enterprise infrastructure, access controls, and legacy IT systems management |
-
 
 ### Languages
 *   **English:** Professional proficiency
