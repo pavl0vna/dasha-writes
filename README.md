@@ -38,6 +38,25 @@ I got into technical writing without really planning for it. After years of prov
 *   **Ukrainian:** Native
 *   **Russian:** Native
 
+**Documentation:**
+Technical writing · Content strategy · Information architecture · 
+Instructional writing · UX writing · Process documentation · SOP creation
+ 
+**Localisation:**
+Internationalisation (i18n) · Translation management · 
+Multilingual content (17 languages) · Metric/imperial conversion
+ 
+**Compliance:**
+CE certification documentation · FCC certification · 
+WhiteLabel documentation · Regulatory compliance
+ 
+**Tools:**
+Jira · Confluence · Figma · Google Docs · Bitbucket · Git · SCCM · 
+Active Directory · Google Drive
+ 
+**Languages:**
+Ukrainian (native) · Russian (native) · English (professional)
+
 ---
  
 ## 🟦 Published Work
