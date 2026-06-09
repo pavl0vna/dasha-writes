@@ -14,45 +14,21 @@ I got into technical writing without really planning for it. After years of prov
 
 ## 🛠️ Skills & Tech Stack
 
-### Documentation & Strategy
-| Domain | Focus Area |
-| :--- | :--- |
-| <kbd> **Technical Writing** </kbd> | Hardware manuals, API concepts, infrastructure logs, and device installation guides |
-| <kbd> **Content Design** </kbd> | UX writing, product copy, microcopy, and digital user journey refinement |
-| <kbd> **Information Architecture** </kbd> | Building structural documentation blueprints from scratch with no existing template |
-| <kbd> **Localization & i18n** </kbd> | Managing 17+ languages, version tracking, and metric-to-imperial unit conversions |
-| <kbd> **Compliance Docs** </kbd> | Authoring to strict international regulatory frameworks (CE, FCC, and WhiteLabel) |
-| <kbd> **Crisis & Emergency** </kbd> | Creating clear civil emergency alerts and SOP instructions under intense pressure |
-
-### Tools & Ecosystem
-| Tool | Focus Area |
-| :--- | :--- |
-| <kbd> **Jira** </kbd> | Project tracking, sprint coordination, and cross-functional ticket management |
-| <kbd> **Confluence** </kbd> | Information architecture, internal SOPs, and cross-team wiki documentation |
-| <kbd> **Figma** </kbd> | UX writing, layout content design, and engineering design handoffs |
-| <kbd> **Git & Bitbucket** </kbd> | Version control, branch structure management, and docs-as-code deployments |
-| <kbd> **Active Directory** </kbd> | Enterprise infrastructure, access controls, and legacy IT systems management |
-
-### Languages
-*   **English:** Professional proficiency
-*   **Ukrainian:** Native
-*   **Russian:** Native
-
 **Documentation:**
 Technical writing · Content strategy · Information architecture · 
 Instructional writing · UX writing · Process documentation · SOP creation
  
 **Localisation:**
 Internationalisation (i18n) · Translation management · 
-Multilingual content (17 languages) · Metric/imperial conversion
+Multilingual content (17 languages) · Metric/imperial conversion · Product knowledge & Research
  
 **Compliance:**
 CE certification documentation · FCC certification · 
 WhiteLabel documentation · Regulatory compliance
  
 **Tools:**
-Jira · Confluence · Figma · Google Docs · Bitbucket · Git · SCCM · 
-Active Directory · Google Drive
+Jira · Confluence · Figma · Google Docs · Git · SCCM · 
+Active Directory · Microsoft Office · Win OS · Mac OS
  
 **Languages:**
 Ukrainian (native) · Russian (native) · English (professional)
@@ -64,10 +40,103 @@ Real documentation, on real products, used by real people.
  
 | Project | Description | Link |
 |---|---|---|
-
-## 🔹 Case Studies
+| Outdoor Lighting Automation | Technical wiring guide for Ajax security system — diagrams originated as my hand-drawn sketches | [Read article](https://ajax.systems/support/posts/automate-outdoor-lighting/) |
+| Roller Blinds & Shutters Control | Comprehensive integration guide covering 110/230V and 12/24V wiring configurations | [Read article](https://ajax.systems/support/posts/control-roller-blinds-or-shutters/) |
+| LightSwitch Manual | Original manual for a brand new device — built documentation architecture from scratch with no existing precedent | [View manual](https://ajax.systems/support/manuals/lightswitch/) |
+| WaterStop Tech Specs | First technical specifications page for Ajax WaterStop — handled prototype and translated hardware specs into published product page | [View page](https://ajax.systems/products/waterstop/) |
+ 
 ---
  
+## 🔹 Case Studies
+ 
+### 🚨 Air Alert — Wartime Civil Emergency Documentation
+ 
+**Context:** Ajax Systems, in partnership with Stfalcon and Ukraine's Ministry of 
+Digital Transformation, launched the Air Alert app — a national civil emergency 
+system notifying Ukrainian citizens of air raids during the Russian invasion.
+ 
+**My role:** Authored the technical instruction enabling Ajax security systems to 
+integrate with the app — a 12-step configuration guide covering all 24 regions of 
+Ukraine, used by schools, hospitals, offices, and homes to trigger sirens during 
+real air raids.
+ 
+**Impact:** The Air Alert app has since been downloaded over 46 million times and 
+has 6.7 million active users — one of the most widely used civil emergency 
+applications in Ukrainian history.
+ 
+**What this demonstrates:** Writing under pressure, understanding operator workflows, 
+accuracy when stakes are highest, and the core principle of technical writing — 
+knowing exactly who your audience is and what they need to do.
+ 
+➡️ [Read the full story](https://ajax.systems/blog/air-alert-via-software-ajax/)
+ 
+---
+ 
+### 🌎 Americas Market Launch — Documentation Internationalisation
+ 
+**Context:** Ajax Systems expanding into North and South America — USA, Canada, 
+Argentina, Uruguay, and wider region.
+ 
+**My role:** Central coordinator for the entire documentation programme:
+- Converted 27 device manuals from metric to imperial measurement systems
+- Liaised with certification team on FCC compliance requirements
+- Prepared content in three core languages (Ukrainian, English, Russian)
+- Coordinated localisation across up to 17 languages including Spanish, 
+  Portuguese, French, Italian, and Dutch
+- Verified technical accuracy across all variants
+- Managed full handover to design teams through to production release
+- Completed within 6-9 months, during wartime
+**What this demonstrates:** Project coordination, internationalisation, 
+regulatory compliance, multilingual content management, and working under 
+extraordinary pressure.
+ 
+➡️ [Ajax 2022 Growth Report — Americas expansion confirmed](https://ajax.systems/blog/2022-growth-report/)
+ 
+---
+ 
+### 📦 Quick Start Guide System — 55+ Multilingual Printed Documents
+ 
+**Context:** Ajax devices ship globally with printed Quick Start Guides inside 
+every product box.
+ 
+**My role:** Owned and maintained the complete library of 55+ Quick Start Guides — 
+multilingual printed documents covering up to 9 languages per device, across 
+Regular, WhiteLabel FCC, CE, and partner-specific certification variants.
+ 
+Responsibilities included:
+- Version control across all device variants
+- Technical specification accuracy
+- Certification compliance (CE, FCC, EAC)
+- Coordination between technical, localisation, and design teams
+- Print-ready delivery
+**What this demonstrates:** Scale, precision, version management, and 
+cross-functional coordination across a globally distributed product line.
+ 
+---
+ 
+### 🆕 LightSwitch — Documentation from Scratch
+ 
+**Context:** Ajax launched LightSwitch — a brand new device type with no 
+existing documentation precedent in the product range.
+ 
+**My role:** Authored the original manual from scratch — no existing template 
+to adapt, no similar device to reference. Required direct collaboration with 
+R&D engineers to understand device behaviour, edge cases, and installation 
+requirements.
+ 
+**What this demonstrates:** Ability to build documentation architecture from 
+nothing, deep technical collaboration, and comfort with ambiguity.
+ 
+➡️ [View manual](https://ajax.systems/support/manuals/lightswitch/)
+ 
+---
+ 
+## 🔹 Writing Samples
+ 
+| Type | Description | Link |
+|---|---|---|
+| Personal essay | How I Accidentally Became a Technical Writer — And Turned Out Okay at It | [Read on Medium](https://medium.com/@nikolaievadaria) |
+
 ## 🌀 About Me
  
 I believe the most innovative technology is only as strong as the documentation 
