@@ -22,7 +22,7 @@ I got into technical writing without really planning for it. After years of prov
 ![Compliance](https://shields.io)
 
 ### Tools & Ecosystem
-![Jira](https://shields.io)
+![Static Badge](https://img.shields.io/badge/jira)
 ![Figma](https://shields.io)
 ![Git](https://shields.io)
 ![Enterprise](https://shields.io)
