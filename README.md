@@ -135,7 +135,7 @@ nothing, deep technical collaboration, and comfort with ambiguity.
  
 | Type | Description | Link |
 |---|---|---|
-| Personal essay | How I Accidentally Became a Technical Writer — And Turned Out Okay at It | [Read on Medium](https://medium.com/@nikolaievadaria) |
+| Personal essay | How I Accidentally Became a Technical Writer — And Turned Out Okay at It | [Read on Medium]([https://medium.com/@nikolaievadaria](https://pavlovna.medium.com/how-i-accidentally-became-a-technical-writer-and-turned-out-okay-at-it-26806b5aa92e) |
 
 ## 🌀 About Me
  
