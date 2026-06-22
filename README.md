@@ -78,14 +78,16 @@ knowing exactly who your audience is and what they need to do.
 Argentina, Uruguay, and wider region.
  
 **My role:** Central coordinator for the entire documentation programme:
-- Converted 27 device quick start guides from metric to imperial measurement systems,
-  technical specifications were also used for manuals on the website – controlled tech specs accuracy for the same number of devices there
-- Liaised with certification team on FCC compliance requirements:
-- Verified technical accuracy across all variants:
+
+- Converted 27 device Quick Start Guides from metric to imperial measurement systems
+- Maintained the same technical specifications across the equivalent product manuals published on the Ajax website
+- Liaised with the certification team on FCC compliance requirements
+- Verified technical accuracy across all variants
 - Managed full handover to design teams, through to production release
-- Completed within 6-9 months, during wartime!
-**What this demonstrates:** Project coordination, internationalisation, 
-regulatory compliance, multilingual content management, and working under 
+- Completed within 6–9 months, during wartime
+
+**What this demonstrates:** Project coordination, internationalisation,
+regulatory compliance, multilingual content management, and working under
 extraordinary pressure.
  
 ➡️ [Ajax 2022 Growth Report — Americas expansion confirmed](https://ajax.systems/blog/2022-growth-report/)
@@ -130,6 +132,20 @@ nothing, deep technical collaboration, and comfort with ambiguity.
  
 ➡️ [View manual](https://ajax.systems/support/manuals/lightswitch/)
  
+---
+
+## 🏆 Career Highlights
+
+| What | Impact |
+|---|---|
+| Air Alert — wartime civil emergency app | 46M+ downloads, 6.7M active users |
+| Ajax Americas documentation launch | 27 devices, entire continent, 17 languages |
+| Mentored incoming Technical Writer | She became Technical Documentation Team Lead |
+| Ajax Special Event: Comfort Zone | Later awarded Davos Communications Award (Silver) |
+| NotPetya cyberattack response (2017) | Frontline emergency IT support, one of history's most destructive cyberattacks |
+| Continued working through 2022 invasion | Wrote wartime civil emergency documentation under active conflict |
+| Relocated to the UK | Rebuilt career from scratch in a new country |
+
 ---
  
 ## 🔹 Writing Samples
