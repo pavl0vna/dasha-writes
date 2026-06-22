@@ -147,8 +147,6 @@ nothing, deep technical collaboration, and comfort with ambiguity.
 | 2022 | Continued working through russian invasion, Wrote wartime civil emergency documentation under active conflict |
 | 2022 | Relocated to the UK, Rebuilt career from scratch in a new country |
 
-## 🏆 Career Highlights
-
 ---
  
 ## 🔹 Writing Samples
