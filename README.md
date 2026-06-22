@@ -156,7 +156,6 @@ in communities, and occasionally in places I didn't expect to end up.
  
 ---
 
-
 ## 🔹 Currently
  
 📍 Based in the UK 🇬🇧
@@ -164,10 +163,9 @@ in communities, and occasionally in places I didn't expect to end up.
 🌱 Exploring content design, UX writing, and open source contributions
  
 ---
- 
 ---
  
-## 🔹 Connect
+## 🛜 Connect
  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nikolaievadaria)
 - ✍️ [Medium](https://medium.com/@pavlovna)
