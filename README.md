@@ -27,8 +27,8 @@ CE certification documentation · FCC certification ·
 WhiteLabel documentation · Regulatory compliance
  
 **Tools:**
-Jira · Confluence · Figma · Google Docs · Git · SCCM · 
-Active Directory · Microsoft Office · Win OS · Mac OS
+Jira · Confluence · Figma · Google Docs · Git · Monday · 
+Active Directory · SCCM · MS Office · Win OS · Mac OS
  
 **Languages:**
 Ukrainian (native) · Russian (native) · English (professional)
@@ -78,14 +78,12 @@ knowing exactly who your audience is and what they need to do.
 Argentina, Uruguay, and wider region.
  
 **My role:** Central coordinator for the entire documentation programme:
-- Converted 27 device manuals from metric to imperial measurement systems
-- Liaised with certification team on FCC compliance requirements
-- Prepared content in three core languages (Ukrainian, English, Russian)
-- Coordinated localisation across up to 17 languages including Spanish, 
-  Portuguese, French, Italian, and Dutch
-- Verified technical accuracy across all variants
-- Managed full handover to design teams through to production release
-- Completed within 6-9 months, during wartime
+- Converted 27 device quick start guides from metric to imperial measurement systems,
+  technical specifications were also used for manuals on the website – controlled tech specs accuracy for the same number of devices there
+- Liaised with certification team on FCC compliance requirements:
+- Verified technical accuracy across all variants:
+- Managed full handover to design teams, through to production release
+- Completed within 6-9 months, during wartime!
 **What this demonstrates:** Project coordination, internationalisation, 
 regulatory compliance, multilingual content management, and working under 
 extraordinary pressure.
@@ -104,6 +102,9 @@ multilingual printed documents covering up to 9 languages per device, across
 Regular, WhiteLabel FCC, CE, and partner-specific certification variants.
  
 Responsibilities included:
+- Prepared content in three core languages (Ukrainian, English, Russian)
+- Coordinated localisation across up to 17 languages including Spanish, 
+  Portuguese, French, Italian, and Dutch
 - Version control across all device variants
 - Technical specification accuracy
 - Certification compliance (CE, FCC, EAC)
@@ -136,6 +137,7 @@ nothing, deep technical collaboration, and comfort with ambiguity.
 | Type | Description | Link |
 |---|---|---|
 | Personal essay | How I Accidentally Became a Technical Writer — And Turned Out Okay at It | [Read on Medium](https://pavlovna.medium.com/how-i-accidentally-became-a-technical-writer-and-turned-out-okay-at-it-26806b5aa92e) |
+| Personal research | The Technical Writing Myth I Believed | [Read on Medium](https://medium.com/@pavlovna/the-technical-writing-myth-i-believed-7a813ff8bdcd) |
 
 ## 🌀 About Me
  
@@ -169,4 +171,3 @@ in communities, and occasionally in places I didn't expect to end up.
  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nikolaievadaria)
 - ✍️ [Medium](https://medium.com/@pavlovna)
-- 📧 
