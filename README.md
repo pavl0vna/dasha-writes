@@ -144,8 +144,10 @@ nothing, deep technical collaboration, and comfort with ambiguity.
 | Late 2014 | Bank entered financial crisis | Found a new role quickly at Vega Telecommunications |
 | June 2017 | NotPetya cyberattack | Frontline endpoint support during one of history's most destructive cyberattacks |
 | 2020–2021 | Ajax service team collapsed | Stepped in, stabilised operations, and rebuilt the team from the ground up |
-| 2022 | Continued working through russian invasion, Wrote wartime civil emergency documentation under active conflict |
-| 2022 | Relocated to the UK, Rebuilt career from scratch in a new country |
+| 2021–2022 | Promoted to Technical Writer | Authored documentation for 15+ devices, 55+ Quick Start Guides, published technical articles |
+| Aug 2022 | Ajax Special Event: Comfort Zone | Later awarded the Davos Communications Award (Silver) |
+| Feb 2022 | Full-scale Russian invasion of Ukraine | Continued working — wrote wartime civil emergency documentation (Air Alert) under active conflict |
+| Sep 2022 | Relocated to the UK | Rebuilt career from scratch in a new country |
 
 ---
  
