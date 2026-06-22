@@ -136,15 +136,18 @@ nothing, deep technical collaboration, and comfort with ambiguity.
 
 ## 🏆 Career Highlights
 
-| What | Impact |
-|---|---|
-| Air Alert — wartime civil emergency app | 46M+ downloads, 6.7M active users |
-| Ajax Americas documentation launch | 27 devices, entire continent, 17 languages |
-| Mentored incoming Technical Writer | She became Technical Documentation Team Lead |
-| Ajax Special Event: Comfort Zone | Later awarded Davos Communications Award (Silver) |
-| NotPetya cyberattack response (2017) | Frontline emergency IT support, one of history's most destructive cyberattacks |
-| Continued working through 2022 invasion | Wrote wartime civil emergency documentation under active conflict |
-| Relocated to the UK | Rebuilt career from scratch in a new country |
+| Year | Milestone | Why It Mattered |
+|---|---|---|
+| 2012–2014 | Completed a second degree while working full-time | First ever job, balancing both simultaneously |
+| 2013 | First job — IT Support, Nadra Bank | First-level support across all Ukrainian branches, including Crimea |
+| Early 2014 | Promoted to Business Application Support | Trusted with cryptographic security tokens for the Kyiv branches |
+| Late 2014 | Bank entered financial crisis | Found a new role quickly at Vega Telecommunications |
+| June 2017 | NotPetya cyberattack | Frontline endpoint support during one of history's most destructive cyberattacks |
+| 2020–2021 | Ajax service team collapsed | Stepped in, stabilised operations, and rebuilt the team from the ground up |
+| 2022 | Continued working through russian invasion, Wrote wartime civil emergency documentation under active conflict |
+| 2022 | Relocated to the UK, Rebuilt career from scratch in a new country |
+
+## 🏆 Career Highlights
 
 ---
  
