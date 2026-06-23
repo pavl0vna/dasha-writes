@@ -145,7 +145,7 @@ nothing, deep technical collaboration, and comfort with ambiguity.
 | June 2017 | NotPetya cyberattack | Frontline endpoint support during one of history's most destructive cyberattacks |
 | 2020–2021 | Ajax service team collapsed | Stepped in, stabilised operations, and rebuilt the team from the ground up |
 | 2021–2022 | Promoted to Technical Writer | Authored documentation for 15+ devices, 55+ Quick Start Guides, published technical articles |
-| Aug 2022 | Ajax Special Event: Comfort Zone | Served as the technical hardware specialist during the August 2022 production shoot, Later awarded the Davos Communications Award (Silver) |
+| Aug 2022 | Ajax Special Event: Comfort Zone | Served as the technical hardware specialist during the August 2022 production shoot, which later awarded the Davos Communications Award (Silver) |
 | Feb 2022 | Full-scale Russian invasion of Ukraine | Continued working — wrote wartime civil emergency documentation (Air Alert) under active conflict |
 | Sep 2022 | Relocated to the UK | Rebuilt career from scratch in a new country |
 
