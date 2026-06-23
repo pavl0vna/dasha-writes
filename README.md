@@ -112,6 +112,7 @@ Responsibilities included:
 - Certification compliance (CE, FCC, EAC)
 - Coordination between technical, localisation, and design teams
 - Print-ready delivery
+
 **What this demonstrates:** Scale, precision, version management, and 
 cross-functional coordination across a globally distributed product line.
  
